@@ -1,0 +1,51 @@
+Práctica 3: Desarrollo de un contenedor con un árbol binario de búsqueda
+
+ ######## Pruebas con ficheros #####
+ Tiempos promedios en milisegundos por cada 1000 operaciones
+######## Tiempo promedio de insercion #####
+0.5706182
+0.6302385
+0.5073056
+0.6033887
+0.4661517
+0.5686535
+0.9270509
+0.7414218
+0.8296208
+0.7105699
+
+######## Tiempo promedio de extraccion#####
+1.2614182
+1.0034472
+0.7804815
+0.7034388
+0.6199468
+0.4647142
+0.6016474
+0.3827028
+0.3117076
+0.2207182
+
+######## Tiempo promedio de busqueda exitosa#####
+0.15716666666666668
+0.20408333333333334
+0.237
+0.310625
+0.3859
+0.45019444444444445
+0.36688095238095236
+0.38908333333333334
+0.4261111111111111
+0.31958333333333333
+
+######## Tiempo promedio de busqueda infructuosa#####
+0.1799
+0.2305
+0.248
+0.2522
+0.2687
+0.292
+0.3196
+0.3948
+0.476
+0.4452
